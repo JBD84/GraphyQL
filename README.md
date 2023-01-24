@@ -3,10 +3,10 @@
 
   &#xa0;
 
-  <!-- <a href="https://expressgraphql01.netlify.app">Demo</a> -->
+  <!-- <a href="https://GraphyQL.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">/GraphyQL</h1>
+<h1 align="center">GraphyQL</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{JBD84}}/GraphyQL01?color=56BEB8">
