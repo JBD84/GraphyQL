@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{JBD84}}/GraphyQL
+$ git clone https://github.com/JBD84/GraphyQL
 
 # Access
 $ cd expressgraphql01
@@ -91,7 +91,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{JBD84}}" target="_blank">{{Javier Bambaren}}</a>
+Made with :heart: by <a href="https://github.com/JBD84" target="_blank">{{Javier Bambaren}}</a>
 
 &#xa0;
 
