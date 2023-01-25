@@ -83,7 +83,7 @@ $ yarn
 # Run the project
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:5500>
 ```
 
 ## :memo: License ##
